@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/abhiramready/React-Projects/blob/main/images/react-projects.png"/>
+<img align="center" src="https://github.com/abhiramready/React-Projects/blob/main/img/react-projects.png"/>
 
 ## 📌 Introduction
 I making these Projects as I learn and explore new concepts in React.js⚛
@@ -10,11 +10,15 @@ I making these Projects as I learn and explore new concepts in React.js⚛
 * Functional Components, Props
 * States, Hooks, and Conditional Rendering
 
-## 1. Meme Generator
-Code | Demo 
+## 1. Meme Maker
+[Code](https://github.com/abhiramready/React-Projects/tree/main/Meme-Maker) | [Demo](https://meme-react.netlify.app/)
+
+<img align="center" src="https://github.com/abhiramready/React-Projects/blob/main/img/meme.PNG"/>
 
 ## 2. ToDo Neumorphic
-Code | Demo 
+[Code](https://github.com/abhiramready/React-Projects/tree/main/ToDo-Neumorphic) | [Demo](https://todo-minimal.netlify.app/) 
+
+<img align="center" src="https://github.com/abhiramready/React-Projects/blob/main/img/todoss.PNG"/>
 
 ## 📜 License
 [MIT](https://github.com/abhiramready/React-Projects/blob/main/LICENSE)
